@@ -6,7 +6,7 @@ Considerando para este problema que π = 3.14159:
 por π.
 '''
 
-raio = float((input()))
+raio = float(input())
 
 area = (3.14159 * (raio**2))
 
